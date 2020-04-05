@@ -5,12 +5,12 @@ I am creating something
 
 this is a list:
 
--   1
--2
--45
+ - 1
+ - 2
+ - 3
 
 subheading
 ----------
 
-*abc* 
+*abc*
 >this is a quote
